@@ -3,12 +3,10 @@ Welcome to my project portfolio. As I learn new skills I test my understanding b
 
 
 
-### [Pathfinding visualizer](https://nabeel44.github.io/Pathfinding-Visualizer/)
+### [Pathfinding Visualizer](https://nabeel44.github.io/Pathfinding-Visualizer/)
 
-[Visualize Algorithms](https://nabeel44.github.io/Pathfinding-Visualizer/)
 
-I created this project to gain a fundemental understanding of how map applications like Google and Apple Maps work. I implemented the Dijkstra and A* weighted search algorithms. These algorithms use different heuristics calculating which node they will next search until they come across the final destination. In the end both algortihms gaurentee the shortest path, similar to how map applications find the shortest route. To emulate a real world, I created dynamic walls that can block the algorithm from searching. Thse 
-
+I created this project to gain a fundamental understanding of how map applications like Google and Apple Maps work. I implemented the Dijkstra and A* weighted search algorithms. These algorithms use different heuristics to calculate which node they will next search until they come across the final destination. In the end, both algorithms guarantee the shortest path, similar to how map applications find the shortest route. To mimic real-world traffic accidents, stoplights, and other obstacles I created dynamic walls that force the algorithm to find a new way.
 ```markdown
 Syntax highlighted code block
 
