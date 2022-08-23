@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages this is a test to see if the text becomes edited.
+## Welcome to my project portfolio. As I learn new skills I try test my understanding by creating personal projects. Below you will find some of my favorite projects and explanations..
 
 You can use the [editor on GitHub](https://github.com/nabeel44/nabeel44.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [Pathfinding visualizer] (https://nabeel44.github.io/Pathfinding-Visualizer/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
