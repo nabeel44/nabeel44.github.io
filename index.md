@@ -3,7 +3,7 @@ Welcome to my project portfolio. As I learn new skills I test my understanding b
 
 
 
-### Pathfinding visualizer
+### [Pathfinding visualizer](https://nabeel44.github.io/Pathfinding-Visualizer/)
 
 [Visualize Algorithms](https://nabeel44.github.io/Pathfinding-Visualizer/)
 
