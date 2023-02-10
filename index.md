@@ -1,5 +1,5 @@
 ## Project Portfolio
-Welcome to my project portfolio. As I learn new skills I test my understanding by creating personal projects. Here you will find some of my favorite projects. *The local hosts for my projects have temporarily been taken down, I'm currently working on a long term solution*
+Welcome to my project portfolio. As I learn new skills I test my understanding by creating personal projects. Here you will find some of my favorite projects. 
 
 
 
