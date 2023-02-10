@@ -11,3 +11,4 @@ I created this project to gain a fundamental understanding of how map applicatio
 ### [Marketverse](https://nabeel44.github.io/MarketVerse/)
 
 This project was my first attempt at making a website. Marketverse will contain all relevent and recent information regarding both the stock market and crypto markets. This was also my first experience working with APIs. I implemented the Bing News Search API in order to find recent news on cryptocurrencies and various coin APIs to filter important statistcs to display. I then used these statistics to rank the top 100 cryptos. I'm working on creating graphs for each crypto that will display price information from the last 3 hours up to the last 5 years. 
+*edit: Unfortantely the news and graph API's are now outdated and erroring. I'm currently exploring long term solutions*
